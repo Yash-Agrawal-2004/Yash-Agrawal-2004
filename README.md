@@ -34,13 +34,13 @@ dashboard analytics, printing, backups, and offline licensing.
 
 ### 📄 Conference Presentation
 
-**A Hybrid CNN-LSTM Model for English Language Fake News Detection -- Presented at 6th International Conference on Computer Vision and Robotics, 2026. Associated paper under publication process.**
+**A Hybrid CNN-LSTM Model for English Language Fake News Detection**
 
-Presented the English-language fake news detection project at an
-international conference. The associated research paper is currently
-under the publication process.
+Presented the English-language fake news detection project at the
+6th International Conference on Computer Vision and Robotics, 2026.
+The associated research paper is currently under the publication process.
 
-[View Project](https://github.com/Fake-News-Detection-Team/Fake-News-Detection-English)
+[View Presentation Certificate](https://drive.google.com/file/d/1gzUXeSnEM_vtEDwgQqKHxL_O8VoiEg4H/view?usp=drive_link)
 
 ### 🛠️ Technologies
 
