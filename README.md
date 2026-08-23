@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Yash Agrawal 👋
 
-<!--
-**Yash-Agrawal-2004/Yash-Agrawal-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Python Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+B.Tech graduate in Information Technology, interested in building practical
+software applications and machine learning systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Interests
+
+- Python Development
+- Machine Learning & NLP
+- Desktop Application Development
+- SQL & Database Systems
+- Software Engineering
+
+### 🚀 Featured Projects
+
+#### 🔬 Multilingual Fake News Detection System
+A multilingual NLP-based fake news detection system supporting
+8 languages using a hybrid CNN-LSTM architecture.
+
+**Tech:** Python · Flask · TensorFlow · Keras · NLP
+
+[View Project](...)
+
+#### 🏥 Prescription Billing System
+A Windows desktop application designed for doctors and clinics,
+featuring prescription management, medicine and doctor dictionaries,
+dashboard analytics, printing, backups, and offline licensing.
+
+**Tech:** Python · PySide6 · SQLite
+
+[View Project](...)
+
+### 📄 Publication
+
+**A Hybrid CNN-LSTM Model for English Language Fake News Detection**
+
+Conference publication based on the English-language fake news
+detection model.
+
+[View Publication](...)
+
+### 🛠️ Technologies
+
+Python · SQL · TensorFlow · Keras · Flask · PySide6 · SQLite ·
+Git · GitHub · Jupyter Notebook
