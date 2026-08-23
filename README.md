@@ -1,6 +1,6 @@
 # Hi, I'm Yash Agrawal 👋
 
-### Software Engineer | Python Developer | Machine Learning Enthusiast
+### Software Engineer | Python Developer | Machine Learning & NLP
 
 B.Tech graduate in Information Technology, interested in building practical
 software applications and machine learning systems.
