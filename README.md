@@ -2,7 +2,7 @@
 
 ### Software Engineer | Python Developer | Machine Learning & NLP
 
-B.Tech graduate in Information Technology, focused in building practical
+B.Tech graduate in Information Technology, focused on building practical
 software applications and machine learning systems.
 
 ### 🔧 Technical Interests
@@ -21,7 +21,7 @@ A multilingual NLP-based fake news detection system supporting
 
 **Tech:** Python · Flask · TensorFlow · Keras · NLP
 
-[View Project](...)
+[View Project](https://github.com/Yash-Agrawal-2004/Multilingual-Fake-News-Detection-system)
 
 #### 🏥 Prescription Billing System
 A Windows desktop application designed for doctors and clinics,
@@ -30,16 +30,18 @@ dashboard analytics, printing, backups, and offline licensing.
 
 **Tech:** Python · PySide6 · SQLite
 
-[View Project](...)
+[View Project](https://github.com/Yash-Agrawal-2004/Prescription-Billing-System)
 
-### 📄 Publication
+### 📄 Conference Presentation
 
-**A Hybrid CNN-LSTM Model for English Language Fake News Detection**
+**A Hybrid CNN-LSTM Model for English Language Fake News Detection -- Presented at 6
+th International Conference on Computer Vision and Robotics, 2026. Associated paper under publication process.**
 
-Conference publication based on the English-language fake news
-detection model.
+Presented the English-language fake news detection project at an
+international conference. The associated research paper is currently
+under the publication process.
 
-[View Publication](...)
+[View Project](https://github.com/Fake-News-Detection-Team/Fake-News-Detection-English)
 
 ### 🛠️ Technologies
 
