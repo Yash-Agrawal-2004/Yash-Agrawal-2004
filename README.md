@@ -38,7 +38,7 @@ dashboard analytics, printing, backups, and offline licensing.
 
 Presented the English-language fake news detection project at the
 6th International Conference on Computer Vision and Robotics, 2026.
-The associated research paper is currently under the publication process.
+The associated research paper is currently under review for publication.
 
 [View Presentation Certificate](https://drive.google.com/file/d/1gzUXeSnEM_vtEDwgQqKHxL_O8VoiEg4H/view?usp=drive_link)
 
