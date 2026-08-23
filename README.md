@@ -2,7 +2,7 @@
 
 ### Software Engineer | Python Developer | Machine Learning & NLP
 
-B.Tech graduate in Information Technology, interested in building practical
+B.Tech graduate in Information Technology, focused in building practical
 software applications and machine learning systems.
 
 ### 🔧 Technical Interests
